@@ -74,6 +74,11 @@ header input{
 	background: #8BC500;
 	color: white;
 }
+#footer article{
+	display: inline-block;
+	vertical-align: top;
+	width: 23%;
+}
 .colorazul{
 	color: #4267B3;
 }

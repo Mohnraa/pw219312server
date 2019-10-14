@@ -1,0 +1,141 @@
+body{
+	font-size: 16px; /*1em*/
+	margin: 0px auto;
+	max-width: 1080px;
+	min-width: 1080px;
+}
+header img{
+	margin-top: 10px;
+	padding-left: 50px;
+	width: 75%;
+}
+header input{
+	float: left;
+	margin-top: 15px;
+	margin-left: 15px;
+}
+header input::placeholder{
+	text-align: right;
+}
+#gu_logo{
+	padding-bottom: 30px;
+	padding-left: 15px;
+}
+#primeraSeccion{
+	margin-top: 30px;
+	background-color: #2B2B2B;
+}
+#primeraSeccion article{
+	display: inline-block;
+	margin-top: 30px;
+	margin-right: -4px;
+	vertical-align: top;
+	width: 18%;
+}
+#primeraSeccion img{
+	width: 100%;
+}
+#sec01art01{
+	padding-right: 50px;
+}
+#sec01art01 ul{
+	list-style-type: none;
+	padding-left: 50px;
+	text-align: left; 
+	margin-bottom: 75px;
+}
+#sec01art02{
+	background-color: #b5d052;
+	padding-bottom: 74px;
+}
+#sec01art03{
+	background-color: #545454;
+	padding-right: 7px;
+	padding-bottom: 74px;
+}
+#sec01art04{
+	background-color: #d42d3e;
+	padding-right: 7px;
+	padding-bottom: 82px;
+}
+#sec01art05{
+	background-color: #e4e4e4;
+	padding-right: 7px;
+	padding-bottom: 30px;
+}
+#segundaSeccion{
+	background-color: #2B2B2B;
+}
+#segundaSeccion article{
+	display: inline-block;
+	margin-bottom: 10px;
+	padding-left: 10px;
+	vertical-align: top;
+	width: 31%;
+}
+#segundaSeccion img{
+	float: right;
+	padding-bottom: 5px;
+	width: 80%;
+}
+#terceraSeccion{
+	background-color: #2B2B2B;
+}
+#terceraSeccion article{
+	border-top: 1px dashed lightgrey;
+	display: inline-block;
+	margin-bottom: 30px;
+	margin-left: 45px;
+	vertical-align: top;
+	width: 28%;
+}
+#sec03art02 ul{
+	list-style-type: none;
+}
+.colorazul{
+	color: #4a6e82;
+}
+.colorblanco{
+	color: #FFFFFF;
+}
+.colorgris{
+	color: #8b8c8f;
+}
+.encabezado{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.letragrande{
+	display:block;
+	font-size: 2.1em;
+	line-height: 26px;
+}
+.letramediana{
+	font-size: 1.5em;
+}
+.letrapequena{
+	display: block;
+	padding-top: 5px;
+	padding-left: 10px;
+	text-align: left;
+}
+.margen{
+	display: block;
+	padding-left: 10px;
+}
+.margen3ra{
+	display: block;
+	padding-left: 20px;
+}
+.margencontacto{
+	display: block;
+	margin-top: -20px;
+	padding-left: 75px
+}
+.nito{
+	font-weight: bold;
+}
+.sendright{
+	display: block;
+	text-align: right;
+}
