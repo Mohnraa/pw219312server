@@ -4,3 +4,114 @@ body{
 	max-width: 1024px;
 	min-width: 1024px;
 }
+header{
+	border-bottom: 3px dashed lightgrey;
+}
+#headerart01{
+	float: right;
+	padding: 5px;
+}
+#headerart02{
+	padding-top: 15px;
+}
+#headerart03{
+	margin-bottom: -60px;
+}
+#headerart03 nav{
+	margin-left: -40px;
+	padding-top: 50px;
+}
+#headerart03 nav ul li{
+	display: inline-block;
+	font-size: 1.2em;
+	padding-right: 30px;
+}
+#buy{
+	position: relative;
+	left: 725px;
+	top: -80px;
+	width: 6%
+}
+#go_to_shop{
+	position: relative;
+	left: 700px;
+	top: -130px;
+}
+#primeraSeccion{
+	margin-bottom: -55px;
+}
+#sec01art01{
+	padding-top: 15px;
+	display: inline-block;
+	vertical-align: top;
+	width: 48%;
+}
+#sec01art01sub01{
+	padding-top: 20px;
+	width: 100%;
+}
+#sec01art01sub01 img{
+	display: inline-block;
+	width: 48%;
+}
+#sec01art02{
+	padding-top: 15px;
+	display: inline-block;
+	vertical-align: top;
+	width: 48%;
+}
+#footsec02 article{
+	padding-right: 10px;
+	padding-top: 30px;
+	display: inline-block;
+	vertical-align: top;
+	width: 18%;
+}
+#bike{
+	display: inline-block;
+	padding-left: 100px;
+	vertical-align: top;
+	width: 75%;
+}
+#fiveyears{
+	position: relative;
+	width: 25%;
+	left: 25px;
+	bottom: 90px;
+}
+.arial{
+	font-family: Arial;
+}
+.bordeBalance{
+	padding-bottom: 15px;
+	border-bottom: 3px dashed lightgrey;
+}
+.bordeText{
+	padding-top: 20px;
+}
+.colorverde{
+	color: #78f14c;
+}
+.colorgris{
+	color: #818181;
+}
+.letragrande{
+	display:block;
+	font-size: 4em;
+}
+.letrapequena{
+	display: block;
+}
+.margen{
+	padding-left: 10px;
+}
+.marcofootertitle{
+	display: block;
+	text-align: left;
+	border-bottom: 2px solid lightgrey;
+	padding:0 0px;
+	padding-bottom: 8px;
+}
+.nito{
+	font-weight: bold;
+}
