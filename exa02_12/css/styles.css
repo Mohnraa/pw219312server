@@ -1,0 +1,146 @@
+body{
+	font-size: 16px;
+	margin: 0px auto;
+	max-width: 1024px;
+	min-width: 1024px;
+}
+#seccion1 article{
+	display: inline-block;
+	vertical-align: top;
+}
+#sec1Art1{
+	background: #F1EFF0;
+	width: 55%
+}
+#sec1Art1 article{
+	display: inline-block;
+	vertical-align: top;
+	width: 48%;
+}
+#sec1Art1Sub2{
+	padding-top: 15px;
+	padding-left: 15px;
+}
+#sec1Art2{
+	background: #606060;
+	padding-bottom: 230px;
+	padding-right: 40px;
+	margin-left: -5px;
+	width: 38%
+}
+#seccion2 article{
+	display: inline-block;
+	margin-top: -7px;
+	vertical-align: top;
+}
+#sec2Art1{
+	background: #67ABE8;
+	width: 49%;
+	padding-bottom: 60px;
+}
+#sec2Art2{
+	background: #D1DDCF;
+	margin-left: -5px;
+	padding-bottom: 54px;
+	width: 19%;
+}
+#sec2Art3{
+	background: #787677;
+	margin-left: -5px;
+	padding-bottom: 55px;
+	width: 29%;
+}
+#persona{
+	display: inline-block;
+	padding-left: 10px;
+	width: 85%;
+}
+#twitter{
+	display: inline-block;
+	position: relative;
+	top: 10px;
+	left: 40px;
+	width: 18%
+}
+.borderButtonBlack{
+		border-color: black;
+}
+.borderButtonWhite{
+		border-color: white;
+}
+.colorBlanco{
+	color: white;
+}
+.colorSec1Art1{
+	background: #F1EFF0;
+}
+.colorSec1Art2{
+	background: #606060;
+}
+.colorSec2Art2{
+	background: #D1DDCF;
+}
+.colorSec2Art3{
+	background: #787677
+}
+.nito{
+	font-weight: bold;
+}
+.letraGrande{
+	font-size: 2em;
+}
+.padCentradoLeft{
+	display: block;
+	padding-top: 10px;
+}
+.padCentrado{
+	display: block;
+	padding-left: 20px;
+	padding-top: 35px;
+}
+.padEncabezadoSec1Art2{
+	display: block;
+	padding-left: 110px;
+	padding-top: 50px;
+}
+.padContenidoSec1Art2{
+	display: block;
+	padding-left: 30px;
+}
+.padContenidoSec2Art1{
+	display: block;
+	padding-left: 170px;
+	margin-top: -70px;
+}
+.padEncabezadoSec2Art2{
+	display: block;
+	padding-left: 50px;
+	padding-top: 15px;
+}
+.padEncabezadoSec2Art3{
+	display: inline-block;
+	padding-top: 15px;
+	padding-left: 85px;
+}
+.buttonStyle{
+	border-radius: 15px;
+	height: 35px;
+	width: 125px;
+}
+.marginButtonArt1{
+	margin-left: 50px;
+}
+.marginButtonArt2{
+	margin-top: 30px; 
+	margin-left: 130px;
+}
+.marginButtonArt3{
+	margin-top: 30px; 
+	margin-left: 40px;
+}
+.marginButtonArt4{
+	margin-top: 30px;
+	margin-left: 80px;
+}
+
+
