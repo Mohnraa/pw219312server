@@ -22,6 +22,9 @@ app.use(myConnection(mysql,{
 	database: 'crudnodejsmysql'
 },'single'));
 
+//Verifica que solo reciba datos sencillos de un formulario
+app.use(express.urlencoded({extended: false}));
+
 // Usamos las rutas
 app.use('/', indiceRutas);
 
